@@ -332,11 +332,13 @@ Cisco IOS-ի հրամանները հիերարխիկ են: Իմանալով տա
 
 
 ### Ինչպե՞ս կարգավորել IP հասցեն Cisco IOS-ի ինտերֆեյսի վրա:
-⚡ Հրամանն է` **```interface [interface-name]```**։ Որին հաջորդում է **```ip address [IP address] [subnet mask]```**:
+⚡ Հրամանն է` **```interface [interface-name]```**։ 
+⚡ Որին հաջորդում է **```ip address [IP address] [subnet mask]```**:
 
 
 ### Ինչպե՞ս միացնել Cisco ինտերֆեյսը:
-⚡ Հրամանն է` **```[interface-name]```**։ Որին հաջորդում է **```no shutdown```**:
+⚡ Հրամանն է` **```[interface-name]```**։ 
+⚡ Որին հաջորդում է **```no shutdown```**:
 
 
 ### Ինչպե՞ս պահպանել կոնֆիգուրացիան Cisco սարքի վրա:
